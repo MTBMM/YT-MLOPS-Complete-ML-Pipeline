@@ -1,0 +1,5 @@
+[core]
+    remote = dvckien
+['remote "dvckien"']
+    url = s3://mlops-buckets1
+
